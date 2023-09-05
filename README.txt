@@ -1,7 +1,7 @@
 Welcome to GameFuse!
 Check out gamefuse.co
 
-This is a Phaser.io example of a GameFuseJavascript implementation. 
+This is a PixiJS example of a GameFuseJavascript implementation. 
 
 Check out the library here:
 https://github.com/game-fuse/game-fuse-js
